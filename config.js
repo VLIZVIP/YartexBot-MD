@@ -14,7 +14,7 @@ global.__filename = function filename(pathURL = import.meta.url, rmPrefix = plat
 const __dirname = global.__dirname(import.meta.url)
 
 global.owner = [
-['5493873687620', '✨ YartexBot-MD', true],
+['18495154002', '✨ YartexBot-MD', true],
 ['593968263524'],
 ['5214434703586'],
 ['595976126756'],
